@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bd6892314046904bbeb907a29f630c1, type: 3}
+  m_Name: ItemData
+  m_EditorClassIdentifier: 
+  fileName: 
+  items:
+  - itemID: 2
+    itemType: 1
+    itemName: S2
+    itemDescription: S2
+    itemWeight: 2
+    imageName: S2
+    quantity: 3
+    maxQuantity: 15
+  - itemID: 1
+    itemType: 1
+    itemName: S1
+    itemDescription: S1
+    itemWeight: 1
+    imageName: S1
+    quantity: 3
+    maxQuantity: 15
+  - itemID: 3
+    itemType: 1
+    itemName: S3
+    itemDescription: S3
+    itemWeight: 3
+    imageName: S3
+    quantity: 3
+    maxQuantity: 15
+  - itemID: 4
+    itemType: 1
+    itemName: B1
+    itemDescription: B1
+    itemWeight: 3
+    imageName: B1
+    quantity: 3
+    maxQuantity: 15
+  - itemID: 5
+    itemType: 1
+    itemName: B2
+    itemDescription: B2
+    itemWeight: 3
+    imageName: B2
+    quantity: 3
+    maxQuantity: 15
+  - itemID: 6
+    itemType: 1
+    itemName: B3
+    itemDescription: B3
+    itemWeight: 3
+    imageName: B3
+    quantity: 3
+    maxQuantity: 15
+  - itemID: 7
+    itemType: 2
+    itemName: K1
+    itemDescription: K1
+    itemWeight: 3
+    imageName: K1
+    quantity: 3
+    maxQuantity: 15
+  - itemID: 8
+    itemType: 2
+    itemName: K2
+    itemDescription: K2
+    itemWeight: 3
+    imageName: K2
+    quantity: 3
+    maxQuantity: 15
+  - itemID: 9
+    itemType: 2
+    itemName: K3
+    itemDescription: K3
+    itemWeight: 3
+    imageName: K3
+    quantity: 3
+    maxQuantity: 15
